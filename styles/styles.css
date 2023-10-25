@@ -50,7 +50,7 @@ body {
 }
 
 .cta-section{
-    background-image: url(../assets/img/background-cta-section.svg);
+    background-image: url(../assets/img/background-cta-section.webp);
     margin-top: -10px;
     background-position: center center;
     background-size: cover;
@@ -485,7 +485,7 @@ body {
 /*=============================================CADENA DE SUMINISTRO==================================*/
 
 .services-cadena {
-    background-image: url(../assets/img/section-cadena-background.svg);
+    background-image: url(../assets/img/section-cadena-background.webp);
 }
 
 .services-cadena h1{
@@ -1012,7 +1012,7 @@ ul#tabs li.check {
 
     .cta-section{
         height: 1000px;
-        background-image: url(../assets/img/cta-section-background-responsive.svg);
+        background-image: url(../assets/img/cta-section-background-responsive.webp);
         background-position: center center;
         background-size:cover;
         margin-top: 0px;
@@ -1077,7 +1077,7 @@ ul#tabs li.check {
         }
     .cta-section{
         margin-top: -10px;
-        background-image: url(../assets/img/cta-section-background-responsive-small.svg);
+        background-image: url(../assets/img/cta-section-background-responsive-small.webp);
         background-position: center center;
         background-size: cover;
     }
