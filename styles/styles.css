@@ -990,6 +990,16 @@ ul#tabs li.check {
         background-size: cover;
     }
 
+    .navbar-collapse{
+        background-color:white;
+        border-radius: 10px;
+        padding: 20px;
+    }
+
+    .navbar-nav .nav-link.active{
+        color: black;
+    }
+
 }
 
 /*Start media Query*/
